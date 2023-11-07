@@ -1,2 +1,2 @@
 # EarlyTalk
-Fully customizable AAC geared towards toddlers.
+Fully customizable browser-based AAC geared towards toddlers.
